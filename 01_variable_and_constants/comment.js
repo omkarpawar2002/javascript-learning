@@ -10,13 +10,13 @@ let num = 23;
 console.log(num);
 
 let message = "comments";
-console.log("Welcome to",message,"Sections.");
+console.log("Welcome to", message, "Sections.");
 
 /*
-comments :- 
+comments :-
         Comments are the code statement that we don't want to execute.
 
-There are 2 types of comments in javascript:- 
+There are 2 types of comments in javascript:-
     1.Single line comment
     2.Multi line comment
 */
