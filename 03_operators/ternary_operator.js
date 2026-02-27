@@ -10,5 +10,8 @@ Ternary operator :-
 */
 
 let age = 19;
+
 let result = (age >= 18) ? "Eligible for vote" : "Not Eligible for vote";
 console.log(`You are ${result}`);
+
+
